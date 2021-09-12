@@ -29,14 +29,13 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: qmfpdls4908
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: qmfpdls4908
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://github.com/qmfpdls4908
 google_site_verification: xxxxx
 lang: en
 
@@ -54,6 +53,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: qmfpdls4908
+  url: https://github.com/qmfpdls4908/
+  email: lamer5130@gmail.com
